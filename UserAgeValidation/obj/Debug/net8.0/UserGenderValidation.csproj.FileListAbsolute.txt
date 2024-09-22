@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.exe
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.deps.json
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.dll
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.pdb
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.dll
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\refint\UserGenderValidation.dll
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.pdb
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\ref\UserGenderValidation.dll

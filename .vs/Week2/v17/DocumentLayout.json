@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Week2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{052E8092-69C4-4FCC-816E-71129271A76E}|Age\\Age.csproj|c:\\users\\admin\\source\\repos\\week2\\age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052E8092-69C4-4FCC-816E-71129271A76E}|Age\\Age.csproj|solutionrelative:age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39283C17-3EC4-44A3-A983-4A6C53867B4C}|UserAgeValidation\\UserGenderValidation.csproj|c:\\users\\admin\\source\\repos\\week2\\useragevalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39283C17-3EC4-44A3-A983-4A6C53867B4C}|UserAgeValidation\\UserGenderValidation.csproj|solutionrelative:useragevalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7205A13B-842F-4F4F-B36A-2D77CFEDD424}|Week2\\Week2.csproj|c:\\users\\admin\\source\\repos\\week2\\week2\\week2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7205A13B-842F-4F4F-B36A-2D77CFEDD424}|Week2\\Week2.csproj|solutionrelative:week2\\week2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Age\\Program.cs",
+              "RelativeDocumentMoniker": "Age\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Age\\Program.cs",
+              "RelativeToolTip": "Age\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:54:29.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Week2.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Week2\\Week2.csproj",
+              "RelativeDocumentMoniker": "Week2\\Week2.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Week2\\Week2.csproj",
+              "RelativeToolTip": "Week2\\Week2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T15:04:16.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\UserAgeValidation\\Program.cs",
+              "RelativeDocumentMoniker": "UserAgeValidation\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\UserAgeValidation\\Program.cs",
+              "RelativeToolTip": "UserAgeValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:54:28.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
